@@ -1,5 +1,5 @@
 ### Prazer, eu sou a Mariana! 👋
-👩🏻‍💼 Recentemente passei pelo processo de transição de carreira e atualmente trabalho com Frontend.
+👩🏻‍💼 Recentemente passei pelo processo de transição de carreira e atualmente trabalho com Front-end.
 
 Sigo na jornada de continuar me especializando. 💪
 
@@ -9,15 +9,16 @@ Sigo na jornada de continuar me especializando. 💪
 
 💻 Estudando: React.js.
 
-##
 
- <div>
-<a href="https://github.com/MarianaRochaSiqueira">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaRochaSiqueira&layout=compact&langs_count=16&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarianaRochaSiqueira&show_icons=true&count_private=true&include_all_commits=true&theme=dracula"/>
-</div>
+<center>
+  <table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaRochaSiqueira&layout=compact&theme=dracula" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=MarianaRochaSiqueira&theme=dracula" /></td>
+    </tr>   
+  </table>
+</center>
 
-##
 
 <h3 align="left">Connect with me:</h3>
 <div>  
